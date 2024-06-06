@@ -1,4 +1,4 @@
-# Urdu Stories Web Scraping Project
+# Urdu Stories Web Scraping 
 
 ## Description
 This project involves scraping Urdu stories using Scrapy. It allows users to extract data from the website [UrduZone](https://www.urduzone.net) and process it for various purposes.
