@@ -11,6 +11,21 @@ Follow the following steps to get the web scraping code running.
 First, we need to create a virtual environment. For that, use the following command:
 ```bash
 virtualenv venv
+```
 
 ```bash
 source venv/bin/activate
+```
+
+### 2. Create and Activate Virtual Environment
+Now, we need to install Scrapy. You can install it using pip:
+```bash
+pip install scrapy
+```
+
+### 3. Creating a Spider
+cd urdu_stories
+
+```bash
+scrapy genspider I200603urdu_stories_spider https://www.urduzone.net
+```
