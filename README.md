@@ -17,7 +17,7 @@ virtualenv venv
 source venv/bin/activate
 ```
 
-### 2. Create and Activate Virtual Environment
+### 2. Install Scrapy library
 Now, we need to install Scrapy. You can install it using pip:
 ```bash
 pip install scrapy
